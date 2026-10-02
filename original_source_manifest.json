@@ -1,0 +1,42 @@
+[
+  {
+    "original": "01_Introduction_To_RAG.ipynb",
+    "sha256": "a545f55e13e8f449dd688a2ccfb2c349ef3740770bae40e3dcac130a91c53a4d"
+  },
+  {
+    "original": "02_Query_Transformations.ipynb",
+    "sha256": "f6d124599a2bab5840f026bc8d0d1466d0491fb12ec5caeb44aaca34f04b0a57"
+  },
+  {
+    "original": "03_Routing_To_Datasources.ipynb",
+    "sha256": "3b35a9c35b55881461d6242b10220fd640d5972ff2714f3a6cd6c43d9afb6520"
+  },
+  {
+    "original": "04_Indexing_To_VectorDBs.ipynb",
+    "sha256": "8ff5e18b3353a52c2f13c9a7ffeb36ace241d1185e66e6861e3f2bf13d1858ae"
+  },
+  {
+    "original": "05_Retrieval_Mechanisms.ipynb",
+    "sha256": "044cb705b494247b27c2e61cef5191b365c4afab9a724056f545eaf2dfd9208f"
+  },
+  {
+    "original": "06_Self_Reflection_Rag.ipynb",
+    "sha256": "09861b0fb94b5cf926f14c9046625fffbe153ea9332200ff518ae2a2e4b06cf1"
+  },
+  {
+    "original": "07_Agentic_Rag.ipynb",
+    "sha256": "0cd330991687d96a3b6dbbf1fd56bf7579c9a198673a045911fc882b6368a1d9"
+  },
+  {
+    "original": "08_Adaptive_Rag_Agent.ipynb",
+    "sha256": "c9d800a5f7242740dccc6dc469be77254904430abfda9529cf2492a86af38164"
+  },
+  {
+    "original": "09_Corrective_RAG_Agent.ipynb",
+    "sha256": "2544b0406a882e034d944e85af4e3315d544c26fe58ee77e85fbaf76989bb1ad"
+  },
+  {
+    "original": "10_LLAMA_3_Rag_Agent_Local.ipynb",
+    "sha256": "1ffc7f454965ce0d28893384d295f3160833592592ba098800ac4fade43c21c9"
+  }
+]
